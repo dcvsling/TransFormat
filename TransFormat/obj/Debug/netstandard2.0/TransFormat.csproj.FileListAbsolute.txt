@@ -1,0 +1,9 @@
+C:\Users\dcvsl\source\repos\TransFormat\TransFormat\bin\Debug\netstandard2.0\TransFormat.deps.json
+C:\Users\dcvsl\source\repos\TransFormat\TransFormat\bin\Debug\netstandard2.0\TransFormat.dll
+C:\Users\dcvsl\source\repos\TransFormat\TransFormat\bin\Debug\netstandard2.0\TransFormat.pdb
+C:\Users\dcvsl\source\repos\TransFormat\TransFormat\obj\Debug\netstandard2.0\TransFormat.csprojAssemblyReference.cache
+C:\Users\dcvsl\source\repos\TransFormat\TransFormat\obj\Debug\netstandard2.0\TransFormat.csproj.CoreCompileInputs.cache
+C:\Users\dcvsl\source\repos\TransFormat\TransFormat\obj\Debug\netstandard2.0\TransFormat.AssemblyInfoInputs.cache
+C:\Users\dcvsl\source\repos\TransFormat\TransFormat\obj\Debug\netstandard2.0\TransFormat.AssemblyInfo.cs
+C:\Users\dcvsl\source\repos\TransFormat\TransFormat\obj\Debug\netstandard2.0\TransFormat.dll
+C:\Users\dcvsl\source\repos\TransFormat\TransFormat\obj\Debug\netstandard2.0\TransFormat.pdb

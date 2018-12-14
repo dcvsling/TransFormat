@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <DotNetCoreRuntime Include="2.2.0-preview1-26529-01" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ooui.AspNetCore" Version="0.10.*" />
+    <PackageReference Include="AdaptiveCards.Rendering.Html" Version="1.0.*" />
+  </ItemGroup>
+
+</Project>
